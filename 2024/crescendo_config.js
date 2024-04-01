@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2024OHCL",
+      "defaultValue": "2024OHMV",
       "required": "true"
     },
     { "name": "Match Level",
